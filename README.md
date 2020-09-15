@@ -1,6 +1,9 @@
+## Get Repo
+
 ## Install
-1. In Terminal go to project directory
-2. run `npm install`
+1. In Terminal run `git clone https://github.com/DmitriyKubatko/nodejs-test-parser.git`
+2. In Terminal go to project directory `cd ./nodejs-test-parser`
+3. run `npm install`
 ## Run
 **Please note! In order to properly run this app you should have latest NodeJS build installed**
 1. In Terminal go to project directory
